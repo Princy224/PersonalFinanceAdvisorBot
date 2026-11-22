@@ -20,6 +20,11 @@ The Personal Finance Advisor Bot helps users track financial transactions and un
 - **Database:** SQLite
 - **AI Integration:** Google Gemini API
 - **Version Control:** Git and GitHub
+## Project Screenshots
+
+### Dashboard
+
+![Personal Finance Advisor Dashboard](screenshots/dashboard.png)
 
 ## Installation and Setup
 
